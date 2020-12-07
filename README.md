@@ -7,3 +7,5 @@ Updated the sematnic elements to reference style.css
 Added alt tags for images if the image cannot be displayed
 
 ![Screenshot](Horiseon.png)
+
+https://eelac.github.io/Homework1-Horiseon/
